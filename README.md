@@ -4,7 +4,7 @@ git clone https://github.com/T0XIC-CYBER/__INB0XFUCK3R__.git
 ```
 > - ``cd __INB0XFUCK3R__``
 > - ``python CUSTOM``
-
+```
 {
   "response": {
     "success": "কান্ট্রি কোড অ্যান্ড নাম",
@@ -1175,3 +1175,5 @@ git clone https://github.com/T0XIC-CYBER/__INB0XFUCK3R__.git
   },
   "total_execution_time": "0.0146"
 }
+
+```
